@@ -18,3 +18,6 @@ The data is deliberately designed for you to play with, explore and create visua
 <h3>Contact us</h3>
 newslabtrends@google.com
 
+<h3>Trus work</h3>
+I use this repo to try myself with bigdata.
+Used it on laravel site. See on my profile to download my Laravel basic crud template with Vagrant. (WIP)
